@@ -1,0 +1,11 @@
+Processor,U,Algo
+Processor0,"(True, 0.93)",edf
+Processor1,"(True, 1.0)",edf
+Processor2,"(True, 0.92)",edf
+Processor3,"(True, 1.0)",edf
+Processor4,"(False, 1.05)",edf
+Processor5,"(False, 1.14)",edf
+Processor6,"(False, 1.04)",edf
+Processor7,"(False, 1.13)",edf
+Processor8,"(False, 1.03)",edf
+Processor9,"(False, 1.06)",edf

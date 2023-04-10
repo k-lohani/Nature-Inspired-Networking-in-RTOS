@@ -1,0 +1,11 @@
+# 1600 1-5 T (hp 555408)
+# p=random.choice([x for x in range(334,350) if (x%2==0) and (x%3==0)]) 
+# e=random.randint(1,p-250)
+
+
+# 400 4T (555408)
+a=random.randint(0,100)
+d=random.randint(400,500)
+p=random.choice([x for x in range(334,350) if (x%2==0) and (x%3==0)]) 
+e=random.randint(1,p-250)
+if (p<=d) and (e<p) and ((e/p)<=0.0349):

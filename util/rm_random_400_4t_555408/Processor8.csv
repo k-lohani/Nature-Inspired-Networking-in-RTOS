@@ -1,0 +1,11 @@
+Processor,U,Algo
+Processor0,"(True, 0, 1)",rm
+Processor1,"(True, 0, 1)",rm
+Processor2,"(True, 0.02, 1.0)",rm
+Processor3,"(True, 0.16, 0.73)",rm
+Processor4,"(True, 0, 1)",rm
+Processor5,"(True, 0.7, 0.7)",rm
+Processor6,"(True, 0.69, 0.7)",rm
+Processor7,"(True, 0.7, 0.7)",rm
+Processor8,"(True, 0.7, 0.7)",rm
+Processor9,"(False, 0.78, 0.7)",rm

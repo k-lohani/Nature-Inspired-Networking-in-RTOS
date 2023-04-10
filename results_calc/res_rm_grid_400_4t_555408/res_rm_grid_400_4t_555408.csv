@@ -1,0 +1,11 @@
+Processor,Sucess Ratio,Failure Ratio,Algo,network,Total Assigned Tasks
+Processor0,0.974358974,0.025641026,rm,grid,39
+Processor1,0.975,0.025,rm,grid,40
+Processor2,0.974358974,0.025641026,rm,grid,39
+Processor3,0.840909091,0.159090909,rm,grid,44
+Processor4,0.942857143,0.057142857,rm,grid,35
+Processor5,1,0,rm,grid,40
+Processor6,0.97826087,0.02173913,rm,grid,46
+Processor7,0.975609756,0.024390244,rm,grid,41
+Processor8,1,0,rm,grid,42
+Processor9,1,0,rm,grid,34

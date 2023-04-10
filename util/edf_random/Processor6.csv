@@ -1,0 +1,22 @@
+Processor,U,Algo
+Processor0,"(True, 0.09)",edf
+Processor1,"(True, 0.08)",edf
+Processor2,"(True, 0.13)",edf
+Processor3,"(True, 1.0)",edf
+Processor4,"(True, 0.98)",edf
+Processor5,"(True, 0.99)",edf
+Processor6,"(True, 0.97)",edf
+Processor7,"(False, 1.13)",edf
+Processor8,"(False, 1.03)",edf
+Processor9,"(False, 1.06)",edf
+Processor,U,Algo
+Processor0,"(True, 0)",edf
+Processor1,"(True, 0)",edf
+Processor2,"(True, 0.13)",edf
+Processor3,"(True, 0)",edf
+Processor4,"(True, 0.12)",edf
+Processor5,"(True, 0.05)",edf
+Processor6,"(True, 0.05)",edf
+Processor7,"(True, 0)",edf
+Processor8,"(True, 0)",edf
+Processor9,"(True, 0)",edf
